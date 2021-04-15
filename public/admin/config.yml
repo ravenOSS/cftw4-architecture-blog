@@ -1,0 +1,23 @@
+backend:
+  name: test-repo
+  branch: main # Branch to update (optional; defaults to master)
+
+publish_mode: editorial_workflow
+
+media_folder: 'public/media/uploads'
+
+public_folder: 'public/images'
+
+collections:
+  - name: 'posts'
+    label: 'Post'
+    folder: 'content'
+    create: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { slug: 'Slug', name: 'slug', widget: 'string' }
+      - { label: 'Date', name: 'date', widget: 'datetime' }
+      - { label: 'Author', name: 'author', widget: 'string' }
+      - { label: 'Excerpt', name: 'excerpt', widget: 'string' }
+      - { label: 'Image', name: 'image', widget: 'image' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
