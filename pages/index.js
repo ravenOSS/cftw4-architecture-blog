@@ -13,6 +13,11 @@ export async function getStaticProps() {
 }
 
 export default function Home({ allPostsData }) {
+	;<Head>
+		<title>Architecture</title>
+		<link rel='icon' href='/favicon.ico' />
+	</Head>
+
 	// destructured props object
 	console.log(allPostsData)
 	return (
