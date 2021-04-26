@@ -3,10 +3,16 @@ import Link from 'next/Link'
 
 export default function Nav() {
 	return (
+		// <div>
 		<ul className={styles.nav}>
 			<li>
 				<Link href='/'>
 					<a>Home</a>
+				</Link>
+			</li>
+			<li>
+				<Link href='/blogsListing'>
+					<a>Blogs</a>
 				</Link>
 			</li>
 			<li>
@@ -20,5 +26,6 @@ export default function Nav() {
 				</Link>
 			</li>
 		</ul>
+		// </div>
 	)
 }
