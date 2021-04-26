@@ -3,7 +3,7 @@ title: Collapse!
 slug: collapse
 date: '2021-02-25T17:14:53.863Z'
 author: Douglas Richards
-excerpt: Building folding in on itself?
+excerpt: Folding Building?
 image: '/images/collapse.jpeg'
 ---
 
