@@ -1,9 +1,7 @@
 import Head from 'next/head'
 import Link from 'next/link'
 import Layout from '../components/Layout'
-import Date from '../components/date'
-import Header from '../components/Header'
-import Footer from '../components/Footer'
+import Date from '../components/Date'
 import styles from '../styles/Home.module.css'
 import { getSortedPostsData } from '../lib/getPosts' // note import syntax
 
