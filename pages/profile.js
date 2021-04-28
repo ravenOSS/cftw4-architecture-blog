@@ -1,13 +1,17 @@
-import Header from '../components/Header'
-import Footer from '../components/Footer'
+import Layout from '../components/Layout'
 import styles from '../styles/Profile.module.css'
 
 export default function Profile() {
 	return (
-		<div className={styles.container}>
-			<Header />
+		<Layout>
 			<h1>This is the Profile Page</h1>
-			<Footer />
-		</div>
+			<style jsx>{`
+				h1,
+				div {
+					text-align: center;
+					padding-top: 50px;
+				}
+			`}</style>
+		</Layout>
 	)
 }
