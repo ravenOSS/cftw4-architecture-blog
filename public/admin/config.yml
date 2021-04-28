@@ -4,6 +4,12 @@ backend:
 
 publish_mode: editorial_workflow
 
+media_library:
+  name: cloudinary
+  config:
+    cloud_name: raveniot
+    api_key: 187738524789985
+
 media_folder: 'public/media/uploads'
 
 public_folder: 'public/images'
