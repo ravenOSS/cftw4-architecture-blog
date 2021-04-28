@@ -11,6 +11,8 @@ export default function Layout({ children }) {
 				main {
 					display: flex;
 					flex-direction: column;
+					justify-content: center;
+					align-items: center;
 				}
 			`}</style>
 		</>

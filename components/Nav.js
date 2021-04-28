@@ -20,11 +20,6 @@ export default function Nav() {
 					<a>Profile</a>
 				</Link>
 			</li>
-			<li>
-				<Link href='/blog'>
-					<a>Blog</a>
-				</Link>
-			</li>
 		</ul>
 		// </div>
 	)

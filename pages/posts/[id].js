@@ -6,31 +6,38 @@ import { getAllPostIds, getPostData } from '../../lib/getPosts'
 
 export default function Post({ postData }) {
 	return (
-		<Layout>
+		<>
 			<Head>
 				<title>{postData.title}</title>
 			</Head>
-			{/* <div className={utilStyles.postContainer}> */}
-			<div className={utilStyles.main}>
-				{/* <article> */}
-				<div className={utilStyles.headingXl}>{postData.title}</div>
-				<br />
-				<div className={utilStyles.calendar}>
-					<Date dateString={postData.date} />
-				</div>
-				<img
-					src={postData.image}
-					width='500'
-					height='500'
-					alt='{postData.title}'
-				/>
+			<Layout>
+				{/* <div className={utilStyles.postContainer}> */}
+				<div className={utilStyles.main}>
+					{/* <article> */}
+					<div className={utilStyles.headingXl}>{postData.title}</div>
+					<br />
+					<div className={utilStyles.calendar}>
+						<Date dateString={postData.date} />
+					</div>
+					<img
+						className={utilStyles.photo}
+						src={postData.image}
+						width='475'
+						height='475'
+						alt='{postData.title}'
+					/>
 
-				<br />
-				<div dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
-				{/* </article> */}
-			</div>
-			{/* </div> */}
-		</Layout>
+					<br />
+					<div>Author: {postData.author}</div>
+					<div
+						className={utilStyles.content}
+						dangerouslySetInnerHTML={{ __html: postData.contentHtml }}
+					/>
+					{/* </article> */}
+				</div>
+				{/* </div> */}
+			</Layout>
+		</>
 	)
 }
 
