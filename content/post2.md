@@ -1,9 +1,9 @@
 ---
 title: Curves!
 slug: curves
-date: '2021-01-12T17:14:53.863Z'
+date: '2021-01-12'
 author: Douglas Richards
-excerpt: Curvaceous fisheye
+excerpt: Fisheye
 image: '/images/curves.jpeg'
 ---
 

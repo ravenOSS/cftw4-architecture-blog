@@ -1,7 +1,7 @@
 ---
 title: Squares!
 slug: squares
-date: '2020-11-21T17:14:53.863Z'
+date: '2020-11-21'
 author: Douglas Richards
 excerpt: Worm's View
 image: '/images/squares.jpeg'

@@ -1,13 +1,13 @@
 ---
 title: Collapse!
 slug: collapse
-date: '2021-02-25T17:14:53.863Z'
+date: '2021-02-25'
 author: Douglas Richards
-excerpt: Folding Building?
+excerpt: Origami?
 image: '/images/collapse.jpeg'
 ---
 
-Located in Las Vegas, NV on the main strip, the building appears to be folding in on itself.
+Located on the main strip in Las Vegas, NV, the building appears to be folding in on itself.
 
 Designed by Walter von Braun, a renowned German architect, the construction was plagued by structural reality versus design ideals.
 

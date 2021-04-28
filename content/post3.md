@@ -1,7 +1,7 @@
 ---
 title: Symmetry!
 slug: symmetry
-date: '2020-21-25T17:14:53.863Z'
+date: '2020-12-25'
 author: Douglas Richards
 excerpt: Double Vision?
 image: '/images/symmetry.jpeg'

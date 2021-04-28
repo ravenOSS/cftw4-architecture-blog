@@ -1,7 +1,7 @@
 ---
-title: Precarious Perches!
+title: Precarious!
 slug: perches
-date: '2020-09-15T17:14:53.863Z'
+date: '2020-09-15'
 author: Douglas Richards
 excerpt: Spaced Living
 image: '/images/perches.jpeg'

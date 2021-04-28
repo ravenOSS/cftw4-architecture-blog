@@ -1,7 +1,7 @@
 ---
 title: In the Round!
 slug: perches
-date: '2020-08-12T17:14:53.863Z'
+date: '2020-08-12'
 author: Douglas Richards
 excerpt: Drum Roll
 image: '/images/drumroll.jpeg'
