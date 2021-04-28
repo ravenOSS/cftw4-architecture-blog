@@ -1,10 +1,10 @@
 ---
 title: Curves!
 slug: curves
-date: '2021-01-12'
+date: 2021-01-12
 author: Douglas Richards
 excerpt: Fisheye
-image: '/images/curves.jpeg'
+image: https://res.cloudinary.com/raveniot/image/upload/c_scale,w_1000/v1619638141/curves_et9mzj.jpg
 ---
 
 Through an expertly handled lens, an otherwise unremarkable office building is a model of curved symmetry.
