@@ -11,9 +11,7 @@ export default function Post({ postData }) {
 				<title>{postData.title}</title>
 			</Head>
 			<Layout>
-				{/* <div className={utilStyles.postContainer}> */}
 				<div className={utilStyles.main}>
-					{/* <article> */}
 					<div className={utilStyles.headingXl}>{postData.title}</div>
 					<br />
 					<div className={utilStyles.calendar}>
@@ -33,9 +31,7 @@ export default function Post({ postData }) {
 						className={utilStyles.content}
 						dangerouslySetInnerHTML={{ __html: postData.contentHtml }}
 					/>
-					{/* </article> */}
 				</div>
-				{/* </div> */}
 			</Layout>
 		</>
 	)
@@ -57,14 +53,3 @@ export async function getStaticProps({ params }) {
 		},
 	}
 }
-
-// export async function getStaticPaths() {
-// 	const paths = fs
-// 		.readdirSync(path.join(process.cwd(), 'content'))
-// 		.map((post) => {
-// 			const id = post.substring(0, post.length - 3)
-// 			return {
-// 				params: { id },
-// 			}
-// 		})
-// }

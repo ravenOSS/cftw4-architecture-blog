@@ -2,6 +2,7 @@ import Head from 'next/head'
 import Layout from '../components/Layout'
 import Date from '../components/Date'
 import styles from '../styles/BlogList.module.css'
+import Date from '../components/Date'
 import { getSortedPostsData } from '../lib/getPosts' // note import syntax
 
 export async function getStaticProps() {
