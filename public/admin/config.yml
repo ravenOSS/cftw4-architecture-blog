@@ -1,6 +1,6 @@
 backend:
-  name: test-repo
-  branch: main # Branch to update (optional; defaults to master)
+  name: git-gateway
+  branch: DynamicRoutes # Branch to update (optional; defaults to master)
 
 publish_mode: editorial_workflow
 
