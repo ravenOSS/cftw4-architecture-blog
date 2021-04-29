@@ -17,8 +17,7 @@ export default function Post({ postData }) {
 					<div className={utilStyles.headingXl}>{postData.title}</div>
 					<br />
 					<div className={utilStyles.calendar}>
-						{postData.date}
-						{/* <Date dateString={postData.date} /> */}
+						<Date dateString={postData.date} />
 					</div>
 					<img
 						className={utilStyles.photo}

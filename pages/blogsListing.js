@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import Layout from '../components/Layout'
+import Date from '../components/Date'
 import styles from '../styles/BlogList.module.css'
 import { getSortedPostsData } from '../lib/getPosts' // note import syntax
 
@@ -31,7 +32,9 @@ export default function BlogsListing({ allPostsData }) {
 									<div className={styles.card}>
 										<img src={image} width='150' height='150' />
 										<div className={styles.cardText}>
-											<h5>{date}</h5>
+											<h5>
+												<Date dateString={date} />
+											</h5>
 											<h3>{title}</h3>
 											<h4>{excerpt}</h4>
 										</div>
