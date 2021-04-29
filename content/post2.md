@@ -3,7 +3,7 @@ title: Curves!
 slug: curves
 date: '2021-01-12'
 author: Douglas Richards
-excerpt: Fisheye
+excerpt: Fisheye?
 image: '/images/curves.jpeg'
 ---
 
