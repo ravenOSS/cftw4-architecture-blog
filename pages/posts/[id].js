@@ -19,10 +19,10 @@ export default function Post({ postData }) {
 					</div>
 					<img
 						className={utilStyles.photo}
-						src={postData.image}
+						src={postData.thumbnail}
 						width='475'
 						height='475'
-						alt='{postData.title}'
+						alt={postData.title}
 					/>
 
 					<br />
