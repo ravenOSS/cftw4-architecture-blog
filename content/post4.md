@@ -4,7 +4,7 @@ slug: squares
 date: '2020-11-21'
 author: Douglas Richards
 excerpt: Worm's View
-image: '/images/squares.jpeg'
+thumbnail: '/images/squares.jpeg'
 ---
 
 Designed by Bumpkin Associates of Long Island, NY, this towering apartment building lacks any variation in its interior leading to almost an infinity view.

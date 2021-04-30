@@ -4,7 +4,7 @@ slug: perches
 date: '2020-09-15'
 author: Douglas Richards
 excerpt: Spaced Living
-image: '/images/perches.jpeg'
+thumbnail: '/images/perches.jpeg'
 ---
 
 Appearing to be from a science fiction outer planet settlement, this building has been carefully designed to maximize outdoor living and ocean views while metal shutters insulate residents from Spains's Malaga city center noise.

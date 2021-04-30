@@ -28,11 +28,11 @@ export default function Home({ allPostsData }) {
 					<h2>Photographers' Perspectives</h2>
 					{/* <div className={styles.grid}> */}
 					<ul>
-						{allPostsData.map(({ id, date, title, image, excerpt }) => (
+						{allPostsData.map(({ id, date, title, thumbnail, excerpt }) => (
 							<li key={id}>
 								<Link href={`/posts/${id}`}>
 									<div className={styles.card}>
-										<img src={image} width='150' height='150' />
+										<img src={thumbnail} width='150' height='150' />
 										<div className={styles.cardText}>
 											<h5>
 												<Date dateString={date} />

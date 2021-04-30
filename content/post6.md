@@ -4,7 +4,7 @@ slug: drum
 date: '2020-08-12'
 author: Douglas Richards
 excerpt: Drum Roll
-image: '/images/drumroll.jpeg'
+thumbnail: '/images/drumroll.jpeg'
 ---
 
 This thoroughly uncoventional building was photographed by Pierre Châtel-Innocenti.

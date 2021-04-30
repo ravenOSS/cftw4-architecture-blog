@@ -4,7 +4,7 @@ slug: symmetry
 date: '2020-12-25'
 author: Douglas Richards
 excerpt: Double Vision?
-image: https://res.cloudinary.com/raveniot/image/upload/c_scale,w_1000/v1619638150/symmetry_afzqhu.jpg
+thumbnail: https://res.cloudinary.com/raveniot/image/upload/c_scale,w_1000/v1619638150/symmetry_afzqhu.jpg
 ---
 
 Juxtaposed symmetry of clear glass and opacity contrasted to vertical linearity. A surreal, geometric sight.

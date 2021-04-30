@@ -4,7 +4,7 @@ slug: curves
 date: '2021-01-12'
 author: Douglas Richards
 excerpt: Fisheye?
-image: '/images/curves.jpeg'
+thumbnail: '/images/curves.jpeg'
 ---
 
 Through an expertly handled lens, an otherwise unremarkable office building is a model of curved symmetry.
