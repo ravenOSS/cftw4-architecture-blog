@@ -31,6 +31,6 @@ collections:
           label: 'Example Image',
           name: 'exampleImage',
           widget: 'image',
-          required: 'false',
+          required: false,
         }
       - { label: 'Body', name: 'body', widget: 'markdown' }
