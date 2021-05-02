@@ -1,7 +1,7 @@
 ---
 title: Curves!
 slug: curves
-date: 2021-01-12
+date: 2021-01-12T07:00:00.000Z
 author: Douglas Richards
 excerpt: Fisheye?
 thumbnail: https://res.cloudinary.com/raveniot/image/upload/c_scale,w_100/v1619638141/curves_et9mzj.jpg
