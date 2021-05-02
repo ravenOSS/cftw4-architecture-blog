@@ -1,7 +1,7 @@
 ---
 title: Collapse!
 slug: collapse
-date: '2021-02-25'
+date: 2021-02-26T17:00:00.000Z
 author: Douglas Richards
 excerpt: Origami?
 thumbnail: https://res.cloudinary.com/raveniot/image/upload/v1619638113/collapse_c1vfyl.jpg
