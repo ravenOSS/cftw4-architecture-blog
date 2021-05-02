@@ -1,7 +1,7 @@
 ---
 title: In the Round!
 slug: drum
-date: 2020-08-12
+date: '2020-08-12'
 author: Douglas Richards
 excerpt: Drum Roll
 thumbnail: https://res.cloudinary.com/raveniot/image/upload/v1619638134/drumroll_wy6xwb.jpg
