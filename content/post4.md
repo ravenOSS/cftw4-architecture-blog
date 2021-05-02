@@ -1,10 +1,12 @@
 ---
 title: Squares!
 slug: squares
-date: '2020-11-21'
+date: 2020-11-21
 author: Douglas Richards
 excerpt: Worm's View
-thumbnail: '/images/squares.jpeg'
+thumbnail: https://res.cloudinary.com/raveniot/image/upload/v1619638137/squares_pwjy6f.jpg
+heroImage: https://res.cloudinary.com/raveniot/image/upload/v1619638137/squares_pwjy6f.jpg
+exampleImage: https://res.cloudinary.com/raveniot/image/upload/v1619638137/squares_pwjy6f.jpg
 ---
 
 Designed by Bumpkin Associates of Long Island, NY, this towering apartment building lacks any variation in its interior leading to almost an infinity view.
