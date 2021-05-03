@@ -1,7 +1,7 @@
 ---
 title: Testing Date Format
 slug: test
-date: May 2, 2021
+date: 'May 2, 2021'
 author: DJR
 excerpt: Testing
 thumbnail: https://res.cloudinary.com/raveniot/image/upload/c_scale,w_1000/v1619638150/symmetry_afzqhu.jpg
