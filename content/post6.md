@@ -1,12 +1,13 @@
 ---
 title: In the Round!
 slug: drum
-date: 2020-09-17T23:36:08.718Z
+date: October 25, 2020
+createdAt: October 16, 2020 3:57 PM
 author: Douglas Richards
 excerpt: Drum Roll
-thumbnail: https://res.cloudinary.com/raveniot/image/upload/v1619638134/drumroll_wy6xwb.jpg
-heroImage: https://res.cloudinary.com/raveniot/image/upload/v1619638134/drumroll_wy6xwb.jpg
-exampleImage: https://res.cloudinary.com/raveniot/image/upload/v1619638134/drumroll_wy6xwb.jpg
+thumbnail: https://res.cloudinary.com/raveniot/image/upload/c_scale,w_500/v1619638134/drumroll_wy6xwb.jpg
+heroImage: https://res.cloudinary.com/raveniot/image/upload/c_scale,w_1000/v1619638134/drumroll_wy6xwb.jpg
+exampleImage: ""
 ---
 
 This thoroughly unconventional building was photographed by Pierre Châtel-Innocenti.

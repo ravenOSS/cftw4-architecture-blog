@@ -2,6 +2,9 @@ backend:
   name: git-gateway
   branch: main # Branch to update (optional; defaults to master)
 
+  # when using the default proxy server port
+local_backend: true
+
 publish_mode: editorial_workflow
 
 media_library:
@@ -27,7 +30,14 @@ collections:
           name: 'date',
           widget: 'datetime',
           # date_format: 'MM DD YYYY',
-          # format: 'MM DD YYYY',
+          format: 'LL',
+        }
+      - {
+          label: CreatedAt,
+          name: 'createdAt',
+          widget: 'datetime',
+          format: 'LLL',
+          required: false,
         }
       - { label: 'Author', name: 'author', widget: 'string' }
       - { label: 'Excerpt', name: 'excerpt', widget: 'string' }
@@ -37,6 +47,6 @@ collections:
           label: 'Example Image',
           name: 'exampleImage',
           widget: 'image',
-          # required: false
+          required: false,
         }
       - { label: 'Body', name: 'body', widget: 'markdown' }

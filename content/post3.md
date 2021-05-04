@@ -1,12 +1,13 @@
 ---
 title: Symmetry!
 slug: symmetry
-date: '2021-02-10T23:36:08.718Z'
+date: February 10, 2021
+createdAt: February 3, 2021 3:49 PM
 author: Douglas Richards
 excerpt: Double Vision?
-thumbnail: https://res.cloudinary.com/raveniot/image/upload/v1619638150/symmetry_afzqhu.jpg
-heroImage: https://res.cloudinary.com/raveniot/image/upload/v1619638150/symmetry_afzqhu.jpg
-exampleImage: https://res.cloudinary.com/raveniot/image/upload/v1619638150/symmetry_afzqhu.jpg
+thumbnail: https://res.cloudinary.com/raveniot/image/upload/c_scale,w_500/v1619638150/symmetry_afzqhu.jpg
+heroImage: https://res.cloudinary.com/raveniot/image/upload/c_scale,w_1000/v1619638150/symmetry_afzqhu.jpg
+exampleImage: ""
 ---
 
 Juxtaposed symmetry of clear glass and opacity contrasted to vertical linearity. A surreal, geometric sight.
