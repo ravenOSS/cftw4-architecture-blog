@@ -1,0 +1,22 @@
+{
+  "base_url": "https://boring-boyd-96019d.netlify.app",
+  "site_title": "Architecture - Photographers' Perspectives",
+  "site_description": "Next.js site with Netlify-CMS content management",
+  "site_keywords": [
+    {
+      "keyword": "Next.js"
+    },
+    {
+      "keyword": "Netlify"
+    },
+    {
+      "keyword": "React"
+    },
+    "Netlify-CMS",
+    "Architecture"
+  ],
+  "posts_per_page": 5,
+  "twitter_account": "DavidRi29946190",
+  "github_account": "ravenOSS",
+  "Facebook_account": "Raveniot-Industrial-IoT-108333374749097"
+}
