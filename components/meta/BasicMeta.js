@@ -10,13 +10,8 @@ export default function BasicMeta({
 }) {
 	return (
 		<Head>
-			<title>
-				{title ? [title, config.site_title].join(' | ') : config.site_title}
-			</title>
-			<meta
-				name='description'
-				content={description ? description : config.site_description}
-			/>
+			<title>{config.site_title}</title>
+			<meta name='description' content={config.site_description} />
 			<meta
 				name='keywords'
 				content={
@@ -26,7 +21,7 @@ export default function BasicMeta({
 				}
 			/>
 			{author ? <meta name='author' content={author} /> : null}
-			<link rel='canonical' href={config.base_url + url} />
+			<link rel='canonical' href={config.base_url} />
 		</Head>
 	)
 }
