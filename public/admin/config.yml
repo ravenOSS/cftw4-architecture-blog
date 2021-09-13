@@ -9,6 +9,7 @@ media_library:
   config:
     cloud_name: raveniot
     api_key: 187738524789985
+    # api key only works when account owner is logged in?
 
 media_folder: 'public/media/uploads'
 
