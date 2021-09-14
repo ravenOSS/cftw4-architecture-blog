@@ -1,0 +1,16 @@
+.tweet {
+	width: 40%;
+	max-width: 1200px;
+	display: flex;
+	justify-content: space-between;
+	align-content: center;
+	background-color: #fff;
+}
+
+.tweet li {
+	list-style-type: none;
+}
+
+.tweet a {
+	text-decoration: none;
+}
