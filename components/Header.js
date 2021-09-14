@@ -1,5 +1,5 @@
 import Nav from './Nav'
-import Tweet from './Tweet'
+// import Tweet from './Tweet'
 import styles from './Header.module.css'
 
 export default function Header() {
