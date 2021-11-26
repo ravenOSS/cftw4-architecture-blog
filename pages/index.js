@@ -20,6 +20,7 @@ export default function Home({ allPostsData }) {
 			<Head>
 				<title>Architecture</title>
 				<link rel='icon' href='/favicon.ico' />
+				<script src='https://identity.netlify.com/v1/netlify-identity-widget.js'></script>
 			</Head>
 			<Layout>
 				<div className={styles.maincontent}>
