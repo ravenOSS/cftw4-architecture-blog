@@ -40,7 +40,7 @@ local_backend: true
 Run:
 npx netlify-cms-proxy-server
 
-Check
+Check:
 Can /admin be accessed on localhost
 
 Test for version control
