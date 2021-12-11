@@ -42,3 +42,5 @@ npx netlify-cms-proxy-server
 
 Check
 Can /admin be accessed on localhost
+
+Test for version control
