@@ -1,0 +1,23 @@
+.footer {
+	height: 50px;
+	display: flex;
+	flex-shrink: 0;
+	justify-content: center;
+	align-items: center;
+	margin-top: auto;
+
+	background-color: rgb(165, 165, 165);
+	border-top: 1px solid darkorange;
+}
+
+.footer p {
+	font-size: medium;
+	font-weight: 600;
+	color: #000;
+	margin: 20px;
+}
+
+.logo {
+	height: 3em;
+	margin: 5px;
+}
